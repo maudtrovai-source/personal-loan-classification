@@ -66,6 +66,9 @@ Ultimately, **Random Forest achieved the highest overall performance** with a Te
 #### Additional Results (Feature Impact)
 Random Forest feature importance confirmed that Income, CCAvg, and Education_Professional are the strongest drivers of the ensemble's predictions. Logistic Regression coefficient analysis revealed that Income and Education (Professional level) carry the largest positive coefficients, substantially increasing the odds of loan acceptance, while holding a CD Account also contributes positively.
 
+![Random Forest Feature Importance](rf_feature_importance.png)
+
+
 ---
 
 ### Conclusions and Next Steps 
