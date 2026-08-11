@@ -1,4 +1,4 @@
-# personal-loan-classification
+# Personal-loan-classification
 Predicting retail bank customer loan acceptance using Machine Learning.
 ## Personal Loan Acceptance Prediction Using Machine Learning: A Binary Classification Approach
 
